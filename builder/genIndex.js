@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const genIndex = function (markup) {
-  let html = fs.readFileSync(path.join(__dirname, "../src/template.html"), {
+  let html = fs.readFileSync(path.join(__dirname, "../src/index.html"), {
     encoding: "utf-8",
   });
 

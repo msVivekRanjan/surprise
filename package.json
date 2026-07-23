@@ -18,18 +18,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnshumanMahato/Happy-Birthday-Card.git"
+    "url": "git+https://github.com/msVivekRanjan/surprise.git"
   },
   "keywords": [
     "happy-birthday",
     "birthday-card"
   ],
-  "author": "Anshuman Mahato",
+  "author": "Vivek Ranjan Sahoo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AnshumanMahato/Happy-Birthday-Card/issues"
+    "url": "https://github.com/msVivekRanjan/surprise.git/issues"
   },
-  "homepage": "https://github.com/AnshumanMahato/Happy-Birthday-Card#readme",
+  "homepage": "",
   "devDependencies": {
     "@parcel/packager-raw-url": "^2.6.2",
     "@parcel/transformer-sass": "^2.6.2",
